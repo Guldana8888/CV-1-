@@ -1,0 +1,27 @@
+body{
+    font-family: 'Merriweather', serif;
+    background-color: #F0D9E7;
+    text-align: start;
+}
+
+h1{
+    font-size: 70px;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #A239EA;
+    margin-top: 0;
+}
+p{
+    font-size: 20px;
+    margin-top: 0;
+    color: rgb(65, 65, 209);
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: rgb(65, 65, 209);
+}
+ul{
+    list-style: none;
+}
